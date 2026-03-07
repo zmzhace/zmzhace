@@ -1,27 +1,27 @@
 # ⚡ Hi there, I'm @zmzhace!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zmzhace&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmzhace&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zmzhace&show_icons=true&theme=radical&locale=cn" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmzhace&layout=compact&theme=radical&locale=cn" alt="Top Languages" />
 </p>
 
 ---
 
 ### 💻 技术栈与专业领域 (Tech Stack & Expertise)
 
-- **编程语言**: Python, C/C++
-- **深度学习 & 框架**: PyTorch, DeepSpeed, Ascend C (算子优化), scikit-learn, pandas
-- **大模型与自然语言处理 (LLMs & NLP)**: 精通 Prompt 设计, RAG (检索增强生成), Agent 构建 (LangChain, MetaGPT)
-- **模型微调与对齐 (Fine-Tuning)**: SFT, DPO, PPO, RLHF, LoRA, p-tuning
-- **模型经验**: GPT 系列, Gemini, DeepSeek, Llama2, Whisper, Wav2Vec2, Stella/BGE (Embedding)
-- **常用工具箱**: LangFlow, Label Studio, Flask, Git, Linux 环境开发
+- **核心语言**: Python, JavaScript/TypeScript, HTML/CSS
+- **AI 与大模型工程 (LLMs & Agents)**: 
+  - 构建具有“思考链”的 AI Agent 协同系统代码与框架设计
+  - 特定领域的大语言模型定制增强与工作流闭环开发
+- **前端与桌面端框架**: React, Tailwind CSS, Electron, Vite (专注沉浸式现代化 UI/UX)
+- **后端框架与微服务**: FastAPI, 异步高并发数据爬取与服务架构
+- **系统工具**: Git, GitHub Actions自动化, 前后端分离与跨平台打包
 
-### 🚀 核心项目成就 (Featured Preocesses & Algorithms)
+### 🚀 核心开源项目 (Featured Projects)
 
-- **大语言模型应用 (LLM Applications)**: 深度定制 RAG 管线，处理高风险领域复杂问答。利用 Gemini 2.5 Pro 及 DeepSeek 进行视频理解、分类与自动化风格标签体系构建。
-- **强化学习与模型强化 (RLHF)**: 成功设计了 Rewriter 模型与 Whisper 语音模型的 SFT 到 DPO 全链路训练流程，优化奖励系统，大幅提高文本指令对齐能力和语音识别准确率。
-- **底层算子优化**: 深入计算图与内存访问模式，在华为平台优化 Flash Attention 和 Flash Attention Grad 等核心算子，显著降低计算延迟，提高大算力集群运算效率。
-- **多模态与生成式对话**: 主导并部署文生图、图生视频模型；开发了基于 Seq2Seq 联合 Attention 机制的情感色彩聊天机器人模型，突破传统对话的呆板局限。
+- **[Open-Cowork](https://github.com/zmzhace/open-cowork)**: 跨平台 AI 协同工作空间。从 Python Agent 的推理引擎底层到基于 Electron+React 的全栈界面架构实现。通过深度结合本地文件系统与智能化交互，提供极速响应、“执行过程全透明”的高级智能助理体验。
+- **[memfog](https://github.com/zmzhace/memfog) / [memfog-py](https://github.com/zmzhace/memfog-py)**: 个人知识信息雾化与大模型增强记忆系统。旨在使用现代搜索与结构化抓取技术，为 RAG 和 AI Agent 构建高价值、可追溯的个人智能数据中枢。
+- **[microclaw](https://github.com/zmzhace/microclaw)**: 轻量且高效的网络信息抓取微服务。专注于为具有高时效性需求的大模型和检索增强生成（RAG）管道提供稳定、清洗过的可用语料输入。
 
 ---
 
@@ -60,5 +60,5 @@
 
 ---
 <p align="right">
-  <i>最后更新于: 2026-03-07 13:49:00</i>
+  <i>最后更新于: 2026-03-07 13:54:02</i>
 </p>
