@@ -1,17 +1,33 @@
-# ⚡ Hi there, I'm @zmzhace!
+# ⚡ Hi there, I'm Ace (@zmzhace)!
 
+> **Algorithm Engineer & Full-Stack Developer** | 专注于 AI Agents、大语言模型微调与全栈系统架构的探索者。
 
+### 👨‍💻 关于我 (About Me)
+
+我在校期间及工作履历中积累了极具深度的算法工作经验。扎根于 **Linux** 环境，我不仅熟练驾驭 **Python/C++** 等核心编程语言，更在 **PyTorch/DeepSpeed** 框架下主导过大规模神经网络的训练与严苛的性能调优，沉淀了犹如磐石般的技术基底与工程直觉。
+
+在大模型认知与应用层面，我具备从模型底座到应用层架构的全局把控力：
+- 深入践行 **SFT, DPO, PPO (RLHF)** 以及 **LoRA, p-tuning** 等前沿微调策略，成功落地于语音识别指令对齐与多模态任务的数据流构建。
+- 对主流大模型架构（如 GPT 系列、DeepSeek 模型等）拥有敏锐的剖析能力与丰富的使用经验，精通极具深度的 **Prompt 工程设计**与高稳定性的**检索增强生成 (RAG)** 管线系统设计。
+- 熟练在 **LangChain / LangFlow** 生态中遨游，专注于构建具备高级“思考链”的高效智能体 (Agent) 协同应用底层。
+
+无论是对前沿 NLP 论文的快速复现，亦或是对开源技术边界的执着试探，我始终保持着极客般的狂热与极致的团队协作力。期待将我的多模态技术积淀与坚实的算法工程能力相互融合，在挑战性能与智能极限的赛道上创造卓越的价值增量。
+
+---
 ---
 
 ### 💻 技术栈与专业领域 (Tech Stack & Expertise)
 
-- **核心语言**: Python, JavaScript/TypeScript, HTML/CSS
-- **AI 与大模型工程 (LLMs & Agents)**: 
-  - 构建具有“思考链”的 AI Agent 协同系统代码与框架设计
-  - 特定领域的大语言模型定制增强与工作流闭环开发
-- **前端与桌面端框架**: React, Tailwind CSS, Electron, Vite (专注沉浸式现代化 UI/UX)
-- **后端框架与微服务**: FastAPI, 异步高并发数据爬取与服务架构
-- **系统工具**: Git, GitHub Actions自动化, 前后端分离与跨平台打包
+- **核心编程语言**: Python, C/C++, JavaScript/TypeScript, Go
+- **大模型工程与智能体 (LLMs & Agentic Systems)**: 
+  - **复杂推理架构**: 深度参与 LangChain / LangGraph 生态，主导构建基于“思考链 (CoT)”与多智能体协同运行的高级 Agent 操作系统底层。
+  - **多模态与定制化 RAG**: 熟练应用LLM驱动跨模态任务（视频理解、自动化标签体系）；精细化调优企业级高稳定 RAG 全链路工程。
+  - **模型对齐与强化学习**: 具备完整的从 SFT (监督微调) 到 DPO/PPO (偏好优化) 的端到端训练经验。深入运用 RLHF / LoRA / p-tuning 在 Whisper (语音指令对齐)、Stella/BGE (检索增强) 等多场景实现显著性能飞跃。
+- **高性能计算与算子调优 (HPC & Infrastructure)**:
+  - 熟悉算力集群开发，在 Linux 系统下熟练通过 PyTorch & DeepSpeed 引擎进行超大规模神经网络组网分布式训练与显存调优。
+- **全栈架构与现代化前端 (Modern Full-Stack)**: 
+  - 熟练运用 React / Next.js (App Router) / Tailwind CSS (v4) 构建具有极致交互（极简设计语言、高帧率动效）的 Web 3.0 时代界面方案。
+  - 精通 Electron 跨平台容器与 Vite 构建工具，搭配 FastAPI 提供高吞吐量异步后端支持，具备从零到一的复杂 AI 原生应用（AI-Native Apps）全栈架构交付能力。
 
 ### 🚀 核心开源项目 (Featured Projects)
 
@@ -43,5 +59,5 @@
 
 ---
 <p align="right">
-  <i>最后更新于: 2026-03-07 14:20:14</i>
+  <i>最后更新于: 2026-03-07 14:26:43</i>
 </p>
