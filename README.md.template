@@ -5,13 +5,15 @@
 
 ### 💻 技术栈与专业领域 (Tech Stack & Expertise)
 
-- **核心语言**: Python, JavaScript/TypeScript, HTML/CSS
-- **AI 与大模型工程 (LLMs & Agents)**: 
-  - 构建具有“思考链”的 AI Agent 协同系统代码与框架设计
-  - 特定领域的大语言模型定制增强与工作流闭环开发
-- **前端与桌面端框架**: React, Tailwind CSS, Electron, Vite (专注沉浸式现代化 UI/UX)
-- **后端框架与微服务**: FastAPI, 异步高并发数据爬取与服务架构
-- **系统工具**: Git, GitHub Actions自动化, 前后端分离与跨平台打包
+- **核心编程语言**: Python, C/C++, JavaScript/TypeScript
+- **大模型与算法工程 (LLMs & Algorithms)**: 
+  - **模型微调与对齐**: 实战应用 DPO, PPO, RLHF, SFT, LoRA 等微调技术，在 Whisper (语音识别优化)、Stella/BGE (嵌入模型对齐) 上取得显著性能提升。
+  - **RAG 与 Agent 架构**: 深度定制 RAG 管线处理高风险领域复杂问答；熟练使用 LangChain / LangFlow 构建具有“思考链”的高效 Agent 协同应用系统系统设计。
+  - **多模态与视觉**: 熟练应用 Gemini 2.5 Pro / DeepSeek 进行视频理解分类与自动化标签体系 (Label Studio) 建设；完成图生视频/文生图模型部署及 prompt 全链路优化。
+- **底层计算与性能调优 (Infrastructure)**:
+  - 在 **Linux** 系统下，熟练使用 **PyTorch** 和 **DeepSpeed** 等框架进行大规模神经网络训练与系统性调参。
+  - 在 **华为昇腾 (Ascend C)** 芯片平台上，深入剖析计算图与内存访问模式，成功优化 Flash Attention / Flash Attention Grad 等核心算子，大幅降低延迟提高算力效率。
+- **全栈与微服务开发 (Full-Stack)**: React, Next.js, Tailwind CSS, Electron, Vite, FastAPI (主导过跨平台桌面工具开发，具备现代化 UI/UX 设计及异步后端服务接口开发能力)。
 
 ### 🚀 核心开源项目 (Featured Projects)
 
