@@ -37,10 +37,11 @@
 ---
 
 ### 📫 如何联系我
-- 🌍 博客: [即将上线]
-- 💬 交流关于: Python, AI Agents, Frontend Development
+- 🌍 个人技术博客: [zmzhace.github.io](https://zmzhace.github.io)
+- 📧 邮箱交流: [zmzhace@gmail.com](mailto:zmzhace@gmail.com)
+- 💬 探讨方向: AI Agents, RAG架构, Next.js / 全栈开发
 
 ---
 <p align="right">
-  <i>最后更新于: 2026-03-07 14:17:48</i>
+  <i>最后更新于: 2026-03-07 14:20:14</i>
 </p>
