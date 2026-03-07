@@ -1,9 +1,5 @@
 # ⚡ Hi there, I'm @zmzhace!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zmzhace&show_icons=true&theme=radical&locale=cn" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmzhace&layout=compact&theme=radical&locale=cn" alt="Top Languages" />
-</p>
 
 ---
 
@@ -31,26 +27,12 @@
 
 <!-- END_SECTION:activity -->
 
----
-
-### 🌟 热门项目 (Top Projects)
-
-<!-- START_SECTION:projects -->
-- [**open-cowork**](https://github.com/zmzhace/open-cowork) - ⭐ 1 | No description
-- [**zmzhace**](https://github.com/zmzhace/zmzhace) - ⭐ 0 | me
-- [**memfog-py**](https://github.com/zmzhace/memfog-py) - ⭐ 0 | Python implementation of memfog - Intent recognition and conversational memory management for AI applications
-- [**memfog**](https://github.com/zmzhace/memfog) - ⭐ 0 | Intent recognition and conversational memory management for AI applications
-- [**microclaw**](https://github.com/zmzhace/microclaw) - ⭐ 0 | No description
-<!-- END_SECTION:projects -->
 
 ---
 
-### ✍️ 最近动态 (Latest Blog)
+### ✍️ 个人博客 (Personal Blog)
 
-<!-- START_SECTION:blog -->
-> [!NOTE]
-> 查看我今天关于 **Open-Cowork 界面革新** 的最新博客！
-<!-- END_SECTION:blog -->
+✨ 欢迎访问我的 [全新个人技术博客](https://zmzhace.github.io)，这里记录了我的全栈开发与 AI Agent 探索之旅。
 
 ---
 
@@ -60,5 +42,5 @@
 
 ---
 <p align="right">
-  <i>最后更新于: 2026-03-07 13:54:02</i>
+  <i>最后更新于: 2026-03-07 14:17:48</i>
 </p>
