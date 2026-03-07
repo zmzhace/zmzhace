@@ -27,9 +27,13 @@ def get_recent_activity(username):
         count = 0
         for event in events:
             if event['type'] == 'PushEvent' and count < 5:
+                payload = event.get('payload', {})
+                commits = payload.get('commits', [])
+                if not commits:
+                    continue
                 repo_name = event['repo']['name'].split('/')[-1]
                 repo_link = f"https://github.com/{event['repo']['name']}"
-                commit_msg = event['payload']['commits'][0]['message'].split('\n')[0]
+                commit_msg = commits[0]['message'].split('\n')[0]
                 activity.append(f"- 🚀 Pushed to [**{repo_name}**]({repo_link}): *{commit_msg}*")
                 count += 1
         return "\n".join(activity)
